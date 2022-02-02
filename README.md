@@ -9,7 +9,5 @@
 <a href="https://www.linkedin.com/in/marcusvinc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br />
-<div>
-<a href="https://github.com/marcusvinic2">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvinic2&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marcusvinic2&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
