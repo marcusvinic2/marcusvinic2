@@ -15,7 +15,7 @@
 
 
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=marcusvinic2&layout=compact&show_icons=true&theme=radical" />
 </div>
   
