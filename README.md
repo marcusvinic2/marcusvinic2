@@ -47,13 +47,3 @@
   
 ![marcusvinic2 ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=marcusvinic2&custom_title=marcusvinic2%20Contribution%20Graph&theme=dracula&bg_color=282828&hide_border=true&line=FF1493&point=FF1493)
 </div>
-
-##
-
-<div>
-
-
-  
-  ![Snake animation](https://github.com/marcusvinic2/crisl4ine/blob/output/github-contribution-grid-snake.svg)
-  
-  </div>
