@@ -43,7 +43,3 @@
  <img height="100em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
  </div>
 <hr />
-  
-  
-![marcusvinic2 ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=marcusvinic2&custom_title=marcusvinic2%20Contribution%20Graph&theme=dracula&bg_color=282828&hide_border=true&line=FF1493&point=FF1493)
-</div>
