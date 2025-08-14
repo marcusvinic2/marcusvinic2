@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 22 anos, atualmente trabalhando como Desenvolvedor Front-End em uma empresa de software.
+    Tenho 22 anos, atualmente trabalhando como Desenvolvedor FullStack em uma empresa de software.
   </em>
 </p>
 
