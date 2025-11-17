@@ -12,12 +12,11 @@
 
 <p>
   <em>
-    Tenho 25 anos, atualmente trabalhando como Desenvolvedor FullStack.
+    25 anos, atualmente trabalhando como Desenvolvedor FullStack.
   </em>
 </p>
 
-- 🚀 Estudante da Rocketseat, Udemy e DevClub
-- 📫 Meu email: marcusvinic.br.154@gmail.com
+- 📫 email: marcusvinic.br.154@gmail.com
 
 ## 🔰 Marcus Vinicius
 <div>
